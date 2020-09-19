@@ -1,0 +1,2 @@
+Bu Form uygulaması  sekron programlama sürecinin nasıl işlendiğini anlatmaktadır. Topla fonsiyonu işini  bitirmeden çarpma fonksiyonu çalışmamaktadır.
+Daha iyi  anlaşılması için topla fonksiyonu  10  saniye bekledikten sonra çalışmaktadır.Bu  10  saniye içersinde çarpma fonksiyonu  çağrılssa dahi, topla fonksiyonunu beklemek zorundadır.

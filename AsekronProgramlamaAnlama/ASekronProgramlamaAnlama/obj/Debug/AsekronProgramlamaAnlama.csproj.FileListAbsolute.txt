@@ -1,0 +1,10 @@
+C:\Users\deniz\source\repos\SekronProgramlamaAnlama\SekronProgramlamaAnlama\bin\Debug\SekronProgramlamaAnlama.exe.config
+C:\Users\deniz\source\repos\SekronProgramlamaAnlama\SekronProgramlamaAnlama\bin\Debug\SekronProgramlamaAnlama.exe
+C:\Users\deniz\source\repos\SekronProgramlamaAnlama\SekronProgramlamaAnlama\bin\Debug\SekronProgramlamaAnlama.pdb
+C:\Users\deniz\source\repos\SekronProgramlamaAnlama\SekronProgramlamaAnlama\obj\Debug\AsekronProgramlamaAnlama.csprojAssemblyReference.cache
+C:\Users\deniz\source\repos\SekronProgramlamaAnlama\SekronProgramlamaAnlama\obj\Debug\SekronProgramlamaAnlama.Form1.resources
+C:\Users\deniz\source\repos\SekronProgramlamaAnlama\SekronProgramlamaAnlama\obj\Debug\SekronProgramlamaAnlama.Properties.Resources.resources
+C:\Users\deniz\source\repos\SekronProgramlamaAnlama\SekronProgramlamaAnlama\obj\Debug\AsekronProgramlamaAnlama.csproj.GenerateResource.cache
+C:\Users\deniz\source\repos\SekronProgramlamaAnlama\SekronProgramlamaAnlama\obj\Debug\AsekronProgramlamaAnlama.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\SekronProgramlamaAnlama\SekronProgramlamaAnlama\obj\Debug\SekronProgramlamaAnlama.exe
+C:\Users\deniz\source\repos\SekronProgramlamaAnlama\SekronProgramlamaAnlama\obj\Debug\SekronProgramlamaAnlama.pdb
